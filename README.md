@@ -27,14 +27,14 @@ Aquí están algunas de las tecnologías y herramientas con las que he estado tr
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/CarlosQuintero8" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
-  <a href="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cloudinary.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cloudinary.svg" alt="cloudinary" width="40" height="40"/> </a>
+  <a href="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cloudinary.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cloudinary.svg" alt="cloudinary" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://analytics.google.com/analytics/web/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="googleanalytics" width="40" height="40"/> </a>
-  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/capcut.svg" alt="capcut" width="40" height="40"/> </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" alt="canva" width="40" height="40"/> </a>
-  <a href="https://ai.google.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/google.svg" alt="googleai" width="40" height="40"/> </a>
-  </p>
+  <a href="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/capcut.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/capcut.svg" alt="capcut" width="40" height="40"/> </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" alt="canva" width="40" height="40"/> </a>
+  <a href="https://ai.google.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/google.svg" alt="googleai" width="40" height="40"/> </a>
+</p>
   
 ---
 
