@@ -49,19 +49,18 @@ Aquí están algunas de las tecnologías y herramientas con las que he estado tr
 
 ### 🚀 Proyectos Destacados:
 
-Estos son algunos de los proyectos en los que he trabajado y que demuestran mis habilidades:
+Estos son algunos de los proyectos en los que he trabajado y que demuestran mis habilidades, **incluyendo trabajo para clientes reales:**
+
+* **Deluxe Agenda:** **Mi proyecto más reciente y elaborado para un cliente real.** Es una aplicación web moderna diseñada para profesionales que necesitan gestionar sus citas, clientes y servicios de manera eficiente. Con una interfaz intuitiva y elegante, permite organizar la agenda profesional desde cualquier dispositivo con acceso a internet, optimizando la gestión de su negocio.
+    * [Link al Proyecto](https://deluxe-agenda.netlify.app/)
 
 * **Pokedex App:** Aplicación web responsiva que consume la PokéAPI. Permite buscar y visualizar más de 800 entradas de Pokémon con estadísticas y evoluciones. Optimizé las consultas Fetch API, reduciendo el tiempo de respuesta en un 40%.
     * [Link al Proyecto](https://pokedexappweb.netlify.app/)
-    * [Link al Repositorio] (https://github.com/CarlosQuintero8/Pokedex)
+    * [Link al Repositorio](https://github.com/CarlosQuintero8/PokedexApp) (Asegúrate de que este sea el enlace exacto a tu repositorio)
 
-* **Users CRUD App:** Una aplicación full-stack para la gestión de usuarios, construida con React, JavaScript y una API RESTful. Integré modales y notificaciones Sonner, y habilité la carga dinámica de imágenes a Cloudinary.
-    * [Link al Proyecto](https://users-crud-new.netlify.app/)
-    * [Link al Repositorio] (https://github.com/CarlosQuintero8/users-crud-app)
-
-* **Weather Live Pro:** Aplicación meteorológica responsiva que proporciona datos en tiempo real sobre temperatura, humedad y viento, utilizando la OpenWeatherMap API. Optimizé el rendimiento front-end, reduciendo los tiempos de carga de datos en un 30%.
+* **Weather Live Pro:** Aplicación meteorológica responsiva desarrollada con HTML5, CSS3, JavaScript (ES6), Fetch API, OpenWeatherMap API y Font Awesome. Proporciona datos en tiempo real con 100% de precisión para temperatura, humedad y viento. Optimizé el rendimiento front-end, reduciendo los tiempos de carga de datos en un 30%.
     * [Link al Proyecto](https://weatherlivepro.netlify.app/)
-    * [Link al Repositorio] (https://github.com/CarlosQuintero8/weatherapp)
+    * [Link al Repositorio](https://github.com/CarlosQuintero8/WeatherLivePro) (Asegúrate de que este sea el enlace exacto a tu repositorio)
 
 ---
 
