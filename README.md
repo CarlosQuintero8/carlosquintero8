@@ -53,6 +53,7 @@ Estos son algunos de los proyectos en los que he trabajado y que demuestran mis 
 
 * **Deluxe Agenda:** **Mi proyecto más reciente y elaborado para un cliente real.** Es una aplicación web moderna diseñada para profesionales que necesitan gestionar sus citas, clientes y servicios de manera eficiente. Con una interfaz intuitiva y elegante, permite organizar la agenda profesional desde cualquier dispositivo con acceso a internet, optimizando la gestión de su negocio.
     * <a href="https://deluxe-agenda.netlify.app/" target="_blank" rel="noopener noreferrer">Link al Proyecto</a>
+    * *Link al Repositorio: Al ser un proyecto para un cliente real, el código del repositorio no puede ser revelado públicamente por motivos de confidencialidad.*
 
 * **Pokedex App:** Aplicación web responsiva que consume la PokéAPI. Permite buscar y visualizar más de 800 entradas de Pokémon con estadísticas y evoluciones. Optimizé las consultas Fetch API, reduciendo el tiempo de respuesta en un 40%.
     * <a href="https://pokedexappweb.netlify.app/" target="_blank" rel="noopener noreferrer">Link al Proyecto</a>
