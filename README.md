@@ -1,70 +1,106 @@
-# ¡Hola! 👋 Soy Carlos Quintero
+<div align="center">
 
-### Desarrollador Web Full Stack Junior apasionado por construir experiencias digitales innovadoras.
+<sub><a href="README.en.md">🇬🇧 English version</a></sub>
 
-¡Hola a todos! Soy Carlos, un desarrollador web full stack junior con una sólida base en el desarrollo front-end y un creciente dominio del back-end. Me apasiona crear aplicaciones web funcionales, responsivas y con una excelente experiencia de usuario. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
+<img src="assets/logo.jpg" width="110" alt="Carlos Quintero" />
 
----
+# Carlos Quintero
 
-### 💻 Tecnologías y Herramientas:
+### Full Stack Developer + Graphic Designer
 
-Aquí están algunas de las tecnologías y herramientas con las que he estado trabajando:
+**Código que funciona. Diseño que se siente.**
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CarlosQuintero8/carlosquintero8/main/assets/icons/bootsrap.png" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CarlosQuintero8/carlosquintero8/main/assets/icons/express.png" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
-  <a href="https://neon.tech/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/neon-1.svg" alt="neon" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CarlosQuintero8/carlosquintero8/main/assets/icons/git.png" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/CarlosQuintero8" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CarlosQuintero8/carlosquintero8/main/assets/icons/github.png" alt="github" width="40" height="40"/> </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CarlosQuintero8/carlosquintero8/main/assets/icons/Cloudinary.png" alt="cloudinary" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CarlosQuintero8/carlosquintero8/main/assets/icons/photoshop.png" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CarlosQuintero8/carlosquintero8/main/assets/icons/illustrator.png" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://analytics.google.com/analytics/web/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="googleanalytics" width="40" height="40"/> </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="canva" width="40" height="40"/> </a>
-  <a href="https://ai.google.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CarlosQuintero8/carlosquintero8/main/assets/icons/aistudio.svg" alt="googleaistudio" width="40" height="40"/> </a>
-</p>
-  
----
+Construyo productos digitales de principio a fin: aplicaciones web, identidades visuales y piezas que conectan con las personas.
 
-### 🚀 Proyectos Destacados:
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5A1F?style=for-the-badge&logo=netlify&logoColor=white)](https://portfoliocarlosquintero.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosquintero8/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrcarlosquintero8@gmail.com)
 
-Estos son algunos de los proyectos en los que he trabajado y que demuestran mis habilidades, **incluyendo trabajo para clientes reales:**
-
-* **Deluxe Agenda:** **Mi proyecto más reciente y elaborado para un cliente real.** Es una aplicación web moderna diseñada para profesionales que necesitan gestionar sus citas, clientes y servicios de manera eficiente. Con una interfaz intuitiva y elegante, permite organizar la agenda profesional desde cualquier dispositivo con acceso a internet, optimizando la gestión de su negocio.
-    * <a href="https://deluxe-agenda.netlify.app/" target="_blank" rel="noopener noreferrer">Link al Proyecto</a>
-    * *Link al Repositorio: Al ser un proyecto para un cliente real, el código del repositorio no puede ser revelado públicamente por motivos de confidencialidad.*
-
-* **Pokedex App:** Aplicación web responsiva que consume la PokéAPI. Permite buscar y visualizar más de 800 entradas de Pokémon con estadísticas y evoluciones. Optimizé las consultas Fetch API, reduciendo el tiempo de respuesta en un 40%.
-    * <a href="https://pokedexappweb.netlify.app/" target="_blank" rel="noopener noreferrer">Link al Proyecto</a>
-    * <a href="https://github.com/CarlosQuintero8/Pokedex" target="_blank" rel="noopener noreferrer">Link al Repositorio</a>
-
-* **Weather Live Pro:** Aplicación meteorológica responsiva desarrollada con HTML5, CSS3, JavaScript (ES6), Fetch API, OpenWeatherMap API y Font Awesome. Proporciona datos en tiempo real con 100% de precisión para temperatura, humedad y viento. Optimizé el rendimiento front-end, reduciendo los tiempos de carga de datos en un 30%.
-    * <a href="https://weatherlivepro.netlify.app/" target="_blank" rel="noopener noreferrer">Link al Proyecto</a>
-    * <a href="https://github.com/CarlosQuintero8/weatherapp" target="_blank" rel="noopener noreferrer">Link al Repositorio</a>
+</div>
 
 ---
 
-### 🌱 Siempre Aprendiendo:
+## Sobre mí
 
-Soy una persona proactiva y me encanta seguir formándome. Estoy constantemente explorando nuevas herramientas y paradigmas para construir soluciones más eficientes y escalables.
+Soy **Desarrollador Web Full Stack** y **Diseñador Gráfico Publicitario** desde Medellín, Colombia. Actualmente trabajo como **Desarrollador de Software** y también asumo funciones de **diseño gráfico**, lo que me permite ver cada producto desde dos ángulos: el código y la marca.
+
+- **Desarrollo end-to-end:** interfaces con React y TypeScript, APIs, bases de datos y despliegue.
+- **Identidad visual:** branding, piezas publicitarias, contenido para redes y diseño editorial.
+- **Perfil híbrido:** decisiones técnicas informadas por el diseño, y viceversa.
+
+> Construyo experiencias que resuelven y emocionan. Cada línea de código y cada píxel tienen un propósito.
+
+---
+
+## Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend y datos**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+
+**Diseño**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
 ---
 
-### 📫 Conéctate Conmigo:
+## Proyectos destacados
 
-* **LinkedIn:** <a href="https://www.linkedin.com/in/carlosquintero8" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/carlosquintero8</a>
-* **Portafolio:** <a href="https://portfoliocarlosquintero.netlify.app" target="_blank" rel="noopener noreferrer">https://portfoliocarlosquintero.netlify.app</a>
-* **Email:** mrcarlosquintero8@gmail.com
+| Proyecto | Qué es | Stack | Demo |
+| :-- | :-- | :-- | :--: |
+| **Construcciones ARQ** | Sitio corporativo para una constructora: dirección de arte oscura, catálogo de proyectos y microinteracciones. | Diseño web · Motion · Responsive | [Ver](https://construccionesarq.netlify.app/) |
+| **Recordatorios Familiares** | App para organizar las tareas del hogar con recordatorios automáticos por correo. | Full Stack · Cloudflare Workers · Auth | [Ver](https://app.recordatoriosfamiliares.workers.dev/) |
+| **Deluxe Agenda** | Agenda para profesionales: citas, clientes, ingresos y respaldo en la nube. | Full Stack · Dashboard · Google Auth | [Ver](https://deluxe-agenda.netlify.app/) |
+| **Shoppa** | Gestor de listas de compras con múltiples listas, modo oscuro y enfoque en productividad. | UI/UX · Productividad · Responsive | [Ver](https://shoppalist.netlify.app/) |
+| **Natalia Cosmetóloga** | Landing para un estudio de cosmética y pestañas, con reservas por WhatsApp. | Landing · UI Design · WhatsApp | [Ver](https://nataliacosmetologa.netlify.app/) |
+
+*Algunos son proyectos de clientes; su código es privado.*
+
+**[Ver todos los proyectos →](https://portfoliocarlosquintero.netlify.app/)**
 
 ---
+
+## Cómo trabajo
+
+1. **Descubrir** — objetivo, audiencia y qué significa el éxito.
+2. **Diseñar** — dirección visual, estructura y prototipos antes de escribir código.
+3. **Construir** — código limpio y tipado, con atención al rendimiento y la accesibilidad.
+4. **Lanzar** — despliegue, medición y mejora continua.
+
+---
+
+## Contacto
+
+- **Portafolio:** [portfoliocarlosquintero.netlify.app](https://portfoliocarlosquintero.netlify.app/)
+- **LinkedIn:** [in/carlosquintero8](https://www.linkedin.com/in/carlosquintero8/)
+- **Email:** [mrcarlosquintero8@gmail.com](mailto:mrcarlosquintero8@gmail.com)
+- **Ubicación:** Medellín, Colombia · Trabajo remoto
+
+<sub>Abierto a proyectos freelance, colaboraciones y oportunidades full-time.</sub>
